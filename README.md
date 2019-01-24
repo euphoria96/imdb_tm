@@ -9,3 +9,6 @@ IMDB review website text mining
  (5) sentiment analysis
  (6) modeling: regression
  (7) evaluation and tuning
+
+## report and presentation
+https://www.euphoria00.com/portfolio
